@@ -17,7 +17,7 @@ theme:
     hljs_languages:
         - yaml
         - django
-    custom_dir: 'theme'
+    # custom_dir: 'theme'
 nav:
     - 项目介绍: index.md
     - 快速开始: 
@@ -134,4 +134,4 @@ plugins:
 
 extra:
     version:
-        method: mike
+        provider: mike
